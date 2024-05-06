@@ -1,0 +1,13 @@
+ Corpus Name: TED2013
+     Package: TED2013 in Moses format
+     Website: http://opus.nlpl.eu/TED2013-v1.1.php
+     Release: v1.1
+Release date: Sun Mar  4 00:46:11 EET 2018
+
+This corpus is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+Please cite the following article if you use any part of the corpus in your own work: J. Tiedemann, 2012, Parallel Data, Tools and Interfaces in OPUS. In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)
+
+A parallel corpus of TED talk subtitles provided by CASMACAT: http://www.casmacat.eu/corpus/ted2013.html. The files are originally provided by https://wit3.fbk.eu.
+
